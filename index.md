@@ -9,11 +9,11 @@ Welcome to the team! This module will take you from zero knowledge to building y
 
 ## 📅 Course Modules
 
-### [Session 1: Speaking the Language]((https://colab.research.google.com/drive/1SO8MjfENmhI1jSssmXWk9kXoEcIIfNNm?usp=sharing))
+### [Session 1: Speaking the Language](https://colab.research.google.com/drive/1SO8MjfENmhI1jSssmXWk9kXoEcIIfNNm?usp=sharing)
 **Topic:** Variables, Print, and Input.
 * We learn how to give the computer orders.
 * We build an "ID Card Generator".
-* 👉 **[Click here to open Session 1 Notes]((https://colab.research.google.com/drive/1SO8MjfENmhI1jSssmXWk9kXoEcIIfNNm?usp=sharing))**
+* 👉 **[Click here to open Session 1 Notes](https://colab.research.google.com/drive/1SO8MjfENmhI1jSssmXWk9kXoEcIIfNNm?usp=sharing)**
 
 ### [Session 2: Making Decisions](INSERT_YOUR_COLAB_LINK_HERE)
 **Topic:** Logic, If/Else, and Debugging.
